@@ -76,14 +76,12 @@
         // var service = new SimpleStorageService(web3, contractAddress);
         // Get the stored value
         var deploymentMessage = new SimpleStorageDeployment();
-
         var deploymentHandler = web3.Eth.GetContractDeploymentHandler<SimpleStorageDeployment>();
-
         var transactionReceipt = await deploymentHandler.SendRequestAndWaitForReceiptAsync(deploymentMessage);
 
-        var contractAddress = transactionReceipt.ContractAddress;
+        //var contractAddress = transactionReceipt.ContractAddress;
 
-        Console.WriteLine("Deployed Contract address is: " + contractAddress);
+        //Console.WriteLine("Deployed Contract address is: " + contractAddress);
 
         // contractAddress = await service.GetQueryAsync();
         //   var increaseValue = await service.SetRequestAndWaitForReceiptAsync(300000000);
