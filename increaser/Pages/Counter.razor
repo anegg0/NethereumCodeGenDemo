@@ -74,10 +74,7 @@
         var contractAddress = "0xb52Fe7D1E04fbf47918Ad8d868103F03Da6ec4fE";
         var service = new SimpleStorageService(web3, contractAddress);
         // Get the stored value
-        var deploymentMessage = new SimpleStorageDeployment
-        {
-
-        };
+        var deploymentMessage = new SimpleStorageDeployment;
 
         // Then we create a deployment handler using our contract deployment definition and simply deploy the contract using the deployment message. We are auto estimating the gas, getting the latest gas price and nonce so nothing else is set anything on the deployment message.
         // Finally, we wait for the deployment transaction to be mined, and retrieve the contract address of the new contract from the receipt.
