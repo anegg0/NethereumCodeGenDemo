@@ -1,0 +1,7 @@
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.deps.json
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.dll
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\bin\Debug\netstandard2.0\EthereumSmartContracts.pdb
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.AssemblyInfoInputs.cache
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.AssemblyInfo.cs
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.dll
+C:\Users\gaelb\Documents\Dev\NethereumCodeGenDemo\EthereumSmartContracts\obj\Debug\netstandard2.0\EthereumSmartContracts.pdb
