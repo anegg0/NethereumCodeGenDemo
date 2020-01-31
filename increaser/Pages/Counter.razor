@@ -86,11 +86,11 @@
 
         var transactionReceipt = await deploymentHandler.SendRequestAndWaitForReceiptAsync(deploymentMessage);
 
-        var contractAddress = transactionReceipt.ContractAddress;
+        //var contractAddress = transactionReceipt.ContractAddress;
 
         Console.WriteLine("Deployed Contract address is: " + contractAddress);
 
-        contractAddress = await service.GetQueryAsync();
+        // contractAddress = await service.GetQueryAsync();
         //   var increaseValue = await service.SetRequestAndWaitForReceiptAsync(300000000);
         //   Get the stored value
         //  var currentStoredValue = await service.GetQueryAsync();
